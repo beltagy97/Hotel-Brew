@@ -1,0 +1,133 @@
+.navbar-custom {
+    background-color: #174962;
+}
+.navbar-brand
+{
+    color:white ;
+}
+.dropdown-item
+{
+    color:black !important;
+}
+#logo
+{
+    height: 40px;
+    width: 150px;   
+}
+#userHeader
+{
+    color: white;
+}
+.navbar-brand:hover
+{
+    color:#F1792B;
+}
+.container img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.nav-item a
+{
+    color: white;
+    
+}
+
+.nav-item a:hover
+{
+    color: #F1792B;
+    
+}
+.card-buttons {
+color: black !important;
+}
+
+.text-left
+{
+    padding-left: 10px;
+}
+
+.cancelButton
+{
+    float: right;  
+     border-top-right-radius: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 12px;  
+    
+}
+
+.checkinButton
+{
+    float: right;
+     border-top-right-radius: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 12px;  
+    
+}
+
+.ExtendStay
+{
+    float: right;
+     border-top-right-radius: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 12px;  
+}
+
+.okButton
+{
+    border-radius: 12px 12px;
+}
+
+
+#date
+{
+    visibility: hidden;
+}
+#submitButton
+{
+    visibility: hidden;
+    background-color:#F1792B;
+    border-color: #F1792B; 
+    border-top-right-radius: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 12px;  
+}
+
+#status
+{
+    color:red;
+}
+
+.card
+{
+    width: 100%;
+}
+img
+{
+    width: 200px;
+    height: 200px;
+    
+}
+
+a:hover
+{
+    text-decoration-line: none;
+}
+
+#manageIcon
+{
+    width:15px;
+    height:15px;
+}
+
+#stars
+{
+    width:15px;
+    height:15px;
+}

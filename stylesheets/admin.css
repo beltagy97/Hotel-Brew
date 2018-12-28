@@ -1,0 +1,40 @@
+#manageIcon
+{
+    width:15px;
+    height:15px;
+}
+
+#stars
+{
+    width:15px;
+    height:15px;
+}
+.navbar-custom {
+    background-color: #174962;
+}
+.nav-link
+{
+    color:white;
+}
+
+#logo
+{
+    height: 40px;
+    width: 150px;   
+}
+
+.nav-link:hover
+{
+    color:#f1792b;
+}
+
+p
+{
+    text-align: center;
+}
+
+#hotelHR
+{
+    height: 1px;
+    background-color: black;
+}

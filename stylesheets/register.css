@@ -1,0 +1,53 @@
+body
+{
+    background-image: url("../resources/images/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.navbar-custom {
+    background-color: #002835;
+}
+.nav-link
+{
+    color:white;
+}
+
+.nav-link:hover
+{
+    color:#004963;
+}
+#logo
+{
+    height: 40px;
+    width: 150px;   
+}
+
+#form
+{
+    margin-top:7%;
+    width: 55%;
+}
+
+.card
+{
+    background-color: #004963;
+    color:white;
+    border-color:#002835; 
+}
+.card-header
+{
+    background-color: #002835;
+    
+    width: 100%;
+}
+.signin:hover
+{
+    color: #F57812;
+    text-decoration: none;
+}
+.cardButton
+{
+    background-color: #F57812;
+    border-color: #F57812;
+    float:right;
+}

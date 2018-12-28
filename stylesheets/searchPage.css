@@ -1,0 +1,123 @@
+.navbar-custom {
+    background-color: #174962;
+}
+.navbar-brand
+{
+    color:white ;
+}
+.dropdown-item
+{
+    color:black !important;
+}
+
+#logo
+{
+    height: 40px;
+    width: 150px;   
+}
+#userHeader
+{
+    color: white;
+}
+.navbar-brand:hover
+{
+    color:#F1792B;
+}
+
+.nav-item a
+{
+    color: white;
+    
+}
+
+.nav-item a:hover
+{
+    color: #F1792B;
+    
+}
+#manageIcon
+{
+    width:15px;
+    height:15px;
+}
+#form
+{
+    margin-top:7%;
+    width: 55%;
+}
+
+#img-carousel
+{
+    height: 250px;
+}
+
+.searchButton
+{
+    background-color:#F57812;
+}
+
+.card-header
+{
+    background-color: #174962;
+    color: white;
+}
+
+.applyButton
+{
+    background-color:#F57812;
+    float: right;
+}
+
+#bookButton
+{
+    float: right;
+}
+
+#bookButton:hover
+{
+    background-color: #F57812;
+    border-color: #F57812;
+}
+
+#hotelImage
+{
+    height: 150px;
+    width: 120px;
+    border-radius : 12px;
+}
+
+.roomsLeft
+{
+    color: red;
+}
+
+#stars
+{
+    width:15px;
+    height:15px;
+}
+
+p.cusRating
+{
+    border-style: solid;
+    border-color: #174962;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+    border-bottom-right-radius: 12px;
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    
+}
+.card-text img
+{
+    width: 300px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+
+.card-header
+{
+   font:bold;
+}

@@ -1,0 +1,81 @@
+.navbar-custom {
+    background-color: #174962;
+}
+.navbar-brand
+{
+    color:white ;
+}
+#logo
+{
+    height: 40px;
+    width: 150px;   
+}
+
+.navbar-brand:hover
+{
+    color:#F1792B;
+}
+
+.nav-item a
+{
+    color: white;
+    
+}
+
+.nav-item a:hover
+{
+    color: #F1792B;
+    
+}
+
+.addHotelButton
+{
+    float: right;
+    background-color:#F1792B;
+    border-color: #F1792B;  
+     border-top-right-radius: 0px;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 12px;  
+    
+}
+
+.card
+{
+    width: 100%;
+}
+.card-buttons {
+    color: black !important;
+    }
+    
+    .text-left
+    {
+        padding-left: 10px;
+    }
+img
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px;
+    
+}
+.dropdown-item
+{
+    color:black !important;
+}
+a:hover
+{
+    text-decoration-line: none;
+}
+
+#manageIcon
+{
+    width:15px;
+    height:15px;
+}
+
+#stars
+{
+    width:15px;
+    height:15px;
+}

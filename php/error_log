@@ -1,0 +1,504 @@
+[08-Dec-2018 21:59:29 UTC] PHP Notice:  Undefined variable: PASS in /home/shehabhegab/public_html/Hotel_resv/loginCus.php on line 8
+[08-Dec-2018 22:00:05 UTC] PHP Notice:  Undefined variable: PASS in /home/shehabhegab/public_html/Hotel_resv/loginCus.php on line 8
+[08-Dec-2018 22:00:47 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/loginCus.php on line 15
+[08-Dec-2018 22:08:45 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginCus.php on line 4
+[08-Dec-2018 22:08:45 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginCus.php on line 5
+[08-Dec-2018 22:09:00 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginOwner.php on line 4
+[08-Dec-2018 22:09:00 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginOwner.php on line 5
+[09-Dec-2018 19:06:30 UTC] PHP Notice:  Undefined index: STDATE in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 5
+[09-Dec-2018 19:06:30 UTC] PHP Notice:  Undefined index: EDATE in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 6
+[09-Dec-2018 19:06:30 UTC] PHP Notice:  Undefined index: CITY in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 7
+[09-Dec-2018 19:06:30 UTC] PHP Notice:  Undefined index: CAP in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 8
+[11-Dec-2018 21:41:44 UTC] PHP Notice:  Undefined variable: city in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 9
+[11-Dec-2018 21:42:08 UTC] PHP Notice:  Undefined variable: city in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 9
+[11-Dec-2018 21:43:05 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 29
+[11-Dec-2018 21:43:15 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 29
+[12-Dec-2018 10:02:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 3
+[12-Dec-2018 10:02:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 4
+[12-Dec-2018 10:04:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 3
+[12-Dec-2018 10:04:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 4
+[12-Dec-2018 10:07:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 3
+[12-Dec-2018 10:07:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 4
+[12-Dec-2018 10:09:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 2
+[12-Dec-2018 10:12:02 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 3
+[12-Dec-2018 10:27:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/shehabhegab/public_html/Hotel_resv/test.php on line 3
+[12-Dec-2018 10:30:30 UTC] PHP Parse error:  syntax error, unexpected 'print_r' (T_STRING) in /home/shehabhegab/public_html/Hotel_resv/test.php on line 3
+[12-Dec-2018 10:45:14 UTC] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/shehabhegab/public_html/Hotel_resv/test.php:3) in /home/shehabhegab/public_html/Hotel_resv/test.php on line 4
+[12-Dec-2018 10:45:14 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/shehabhegab/public_html/Hotel_resv/test.php:3) in /home/shehabhegab/public_html/Hotel_resv/test.php on line 4
+[14-Dec-2018 20:29:55 UTC] PHP Parse error:  syntax error, unexpected '$RoomID' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/reserve.php on line 7
+[14-Dec-2018 20:29:59 UTC] PHP Parse error:  syntax error, unexpected '$RoomID' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/reserve.php on line 7
+[14-Dec-2018 20:30:05 UTC] PHP Parse error:  syntax error, unexpected '$RoomID' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/reserve.php on line 7
+[14-Dec-2018 20:30:14 UTC] PHP Parse error:  syntax error, unexpected '$RoomID' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/reserve.php on line 7
+[14-Dec-2018 20:30:37 UTC] PHP Parse error:  syntax error, unexpected '$RoomID' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/reserve.php on line 7
+[14-Dec-2018 20:30:41 UTC] PHP Parse error:  syntax error, unexpected '$RoomID' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/reserve.php on line 7
+[14-Dec-2018 20:30:42 UTC] PHP Parse error:  syntax error, unexpected '$RoomID' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/reserve.php on line 7
+[19-Dec-2018 21:56:25 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 23
+[19-Dec-2018 21:57:56 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[19-Dec-2018 21:59:40 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[19-Dec-2018 22:00:21 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[19-Dec-2018 22:01:19 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 4
+[19-Dec-2018 22:02:16 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/getReservations.php on line 4
+[20-Dec-2018 13:33:59 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 19
+[20-Dec-2018 13:38:36 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 19
+[20-Dec-2018 13:38:54 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 4
+[20-Dec-2018 13:38:54 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 19
+[20-Dec-2018 13:38:58 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 19
+[20-Dec-2018 13:39:22 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 19
+[20-Dec-2018 13:39:53 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/custRatings.php on line 19
+[20-Dec-2018 14:14:38 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:18:08 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:18:22 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:19:57 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:19:59 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:19:59 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:24:25 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:24:25 UTC] PHP Notice:  Undefined variable: result in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 13
+[20-Dec-2018 14:25:04 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:25:04 UTC] PHP Notice:  Undefined variable: result in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 14:26:25 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:26:25 UTC] PHP Notice:  Undefined variable: sql2 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 12
+[20-Dec-2018 14:26:25 UTC] PHP Warning:  mysqli::query(): Empty query in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 12
+[20-Dec-2018 14:26:39 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:26:39 UTC] PHP Notice:  Object of class mysqli_result could not be converted to int in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 14:26:39 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 15
+[20-Dec-2018 14:28:56 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE), expecting ',' or ';' in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 27
+[20-Dec-2018 14:28:57 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE), expecting ',' or ';' in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 27
+[20-Dec-2018 14:28:58 UTC] PHP Parse error:  syntax error, unexpected '$conn' (T_VARIABLE), expecting ',' or ';' in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 27
+[20-Dec-2018 14:29:07 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 14:29:07 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 25
+[20-Dec-2018 15:17:46 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:17:47 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:18:02 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:19:05 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:19:45 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:19:45 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:19:45 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:20:59 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:20:59 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 15:31:35 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:31:35 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 15:33:37 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:33:37 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 15:34:32 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:34:32 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 15:34:34 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:34:34 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 15:35:56 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:35:56 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 15:36:57 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:36:57 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 15:37:50 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 15:37:50 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:01:04 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:01:04 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:01:19 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:01:19 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:01:19 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 19
+[20-Dec-2018 16:01:20 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:01:20 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:01:20 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 19
+[20-Dec-2018 16:01:21 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:01:21 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:01:21 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 19
+[20-Dec-2018 16:01:21 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:01:21 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:01:21 UTC] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 19
+[20-Dec-2018 16:02:03 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:02:03 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:02:28 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:02:28 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:02:51 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:02:51 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:02:52 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:02:52 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:02:52 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:02:52 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:02:52 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:02:52 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:02:53 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:02:53 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:03:17 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:03:17 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:04:22 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:04:22 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:04:22 UTC] PHP Notice:  Undefined variable: row in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:04:24 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:04:24 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:04:24 UTC] PHP Notice:  Undefined variable: row in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:04:25 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:04:25 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:04:25 UTC] PHP Notice:  Undefined variable: row in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:04:25 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:04:25 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:04:25 UTC] PHP Notice:  Undefined variable: row in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:05:36 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:05:36 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:05:36 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:06:48 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:06:48 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:06:48 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 20
+[20-Dec-2018 16:06:48 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 22
+[20-Dec-2018 16:06:49 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:06:49 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:06:49 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 20
+[20-Dec-2018 16:06:49 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 22
+[20-Dec-2018 16:06:49 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:06:49 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:06:49 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 20
+[20-Dec-2018 16:06:49 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 22
+[20-Dec-2018 16:07:24 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:07:24 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:07:24 UTC] PHP Notice:  Undefined variable: query in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:07:24 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:07:24 UTC] PHP Warning:  mysql_query(): Access denied for user 'shehabhegab'@'localhost' (using password: NO) in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:07:24 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:07:24 UTC] PHP Warning:  mysql_fetch_object(): supplied argument is not a valid MySQL result resource in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 17
+[20-Dec-2018 16:07:24 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 19
+[20-Dec-2018 16:08:43 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:08:43 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:08:43 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:08:44 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:09:02 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:09:02 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:09:02 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:10:04 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:10:04 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:10:04 UTC] PHP Notice:  Undefined variable: query in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:10:04 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:10:04 UTC] PHP Warning:  mysql_query(): Access denied for user 'shehabhegab'@'localhost' (using password: NO) in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:10:04 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:10:04 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 16
+[20-Dec-2018 16:12:50 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:12:50 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:12:50 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:12:50 UTC] PHP Warning:  mysql_query(): Access denied for user 'shehabhegab'@'localhost' (using password: NO) in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:12:50 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 14
+[20-Dec-2018 16:13:28 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:13:28 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:13:37 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:13:37 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:14:14 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:14:14 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:14:14 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:15:01 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:15:01 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:15:01 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:15:02 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:15:02 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:15:02 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:15:03 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:17:06 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:17:06 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:17:06 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 23
+[20-Dec-2018 16:17:06 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:17:22 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:17:22 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:17:22 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 23
+[20-Dec-2018 16:17:22 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 23
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Undefined offset: 0 in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 23
+[20-Dec-2018 16:17:24 UTC] PHP Notice:  Array to string conversion in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:18:33 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:18:33 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:19:31 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:19:31 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:19:31 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 32
+[20-Dec-2018 16:19:32 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:19:32 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:19:32 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 32
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 32
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 32
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:19:33 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 32
+[20-Dec-2018 16:26:18 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:26:18 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:26:18 UTC] PHP Warning:  Illegal string offset 'StartDate' in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:26:18 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 32
+[20-Dec-2018 16:26:19 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:26:19 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:26:19 UTC] PHP Warning:  Illegal string offset 'StartDate' in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:26:19 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 32
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:27:48 UTC] PHP Notice:  Undefined index: StartDate in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 28
+[20-Dec-2018 16:31:56 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:31:56 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:32:13 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:32:13 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:32:37 UTC] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING) in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 20
+[20-Dec-2018 16:32:38 UTC] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING) in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 20
+[20-Dec-2018 16:32:39 UTC] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING) in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 20
+[20-Dec-2018 16:32:39 UTC] PHP Parse error:  syntax error, unexpected 'printf' (T_STRING) in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 20
+[20-Dec-2018 16:33:10 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:33:10 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:34:03 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 6
+[20-Dec-2018 16:34:03 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:40:50 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:40:50 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:41:13 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:41:13 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:41:15 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:41:15 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:41:15 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:41:15 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:42:22 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:42:22 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:53:00 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:53:00 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:53:23 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:53:23 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:53:24 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:53:24 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:53:25 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:53:25 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:53:25 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:53:25 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:54:39 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:54:39 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:56:10 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:56:10 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:56:12 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 7
+[20-Dec-2018 16:56:12 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:58:16 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:58:16 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 9
+[20-Dec-2018 16:58:51 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 16:58:51 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 9
+[20-Dec-2018 17:13:59 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:16:55 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:18:57 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:19:08 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:19:19 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:22:54 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:25:23 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:25:29 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 17:29:35 UTC] PHP Notice:  Undefined index: rating in /home/shehabhegab/public_html/Hotel_resv/rateHotel.php on line 8
+[20-Dec-2018 21:44:34 UTC] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 8
+[20-Dec-2018 21:44:55 UTC] PHP Parse error:  syntax error, unexpected 'LIKE' (T_STRING) in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 8
+[20-Dec-2018 22:01:33 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getFilterd.php on line 84
+[20-Dec-2018 22:03:21 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/shehabhegab/public_html/Hotel_resv/getFilterd.php on line 87
+[20-Dec-2018 22:07:03 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getFilterd.php on line 83
+[21-Dec-2018 12:28:23 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 12:28:42 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 12:28:48 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 12:29:51 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 12:29:55 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 12:31:55 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 12:32:15 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 12:33:00 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[21-Dec-2018 13:45:12 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/cancelResv.php on line 6
+[21-Dec-2018 13:45:14 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/cancelResv.php on line 6
+[21-Dec-2018 13:46:04 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/cancelResv.php on line 6
+[21-Dec-2018 13:46:07 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/cancelResv.php on line 6
+[21-Dec-2018 13:46:07 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/cancelResv.php on line 6
+[21-Dec-2018 13:46:08 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/cancelResv.php on line 6
+[21-Dec-2018 13:46:11 UTC] PHP Notice:  Undefined index: RESVID in /home/shehabhegab/public_html/Hotel_resv/cancelResv.php on line 6
+[21-Dec-2018 16:16:28 UTC] PHP Parse error:  syntax error, unexpected '2018' (T_LNUMBER) in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 17
+[21-Dec-2018 16:16:30 UTC] PHP Parse error:  syntax error, unexpected '2018' (T_LNUMBER) in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 17
+[21-Dec-2018 16:37:12 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 42
+[21-Dec-2018 16:37:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 42
+[21-Dec-2018 17:23:37 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 3
+[21-Dec-2018 17:25:37 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 3
+[21-Dec-2018 17:27:57 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 4
+[21-Dec-2018 17:29:41 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 4
+[21-Dec-2018 17:30:37 UTC] PHP Notice:  Undefined index: custID in /home/shehabhegab/public_html/Hotel_resv/checkResv.php on line 4
+[21-Dec-2018 17:50:48 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:11:51 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:12:11 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:28:19 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:30:02 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:35:30 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:35:49 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:39:37 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:40:42 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:44:43 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[21-Dec-2018 18:45:36 UTC] PHP Notice:  Undefined index: CustID in /home/shehabhegab/public_html/Hotel_resv/getProfile.php on line 4
+[22-Dec-2018 09:06:00 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 65
+[22-Dec-2018 09:06:01 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 65
+[22-Dec-2018 09:06:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 65
+[22-Dec-2018 09:06:51 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 65
+[22-Dec-2018 09:06:51 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 65
+[22-Dec-2018 09:06:52 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 65
+[22-Dec-2018 09:08:37 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/shehabhegab/public_html/Hotel_resv/checkIN.php on line 36
+[22-Dec-2018 09:28:53 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 40
+[22-Dec-2018 10:40:28 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 66
+[22-Dec-2018 10:40:28 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getResults.php on line 66
+[22-Dec-2018 12:16:10 UTC] PHP Notice:  Undefined index: ownerID in /home/shehabhegab/public_html/Hotel_resv/getHotelsOwned.php on line 3
+[22-Dec-2018 13:44:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getHotelsOwned.php on line 22
+[22-Dec-2018 14:43:29 UTC] PHP Notice:  Undefined index: oid in /home/shehabhegab/public_html/Hotel_resv/getHotelsOwned.php on line 3
+[22-Dec-2018 14:43:40 UTC] PHP Notice:  Undefined index: oid in /home/shehabhegab/public_html/Hotel_resv/getHotelsOwned.php on line 3
+[22-Dec-2018 14:49:51 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 14:49:51 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 24
+[22-Dec-2018 14:51:53 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 14:51:53 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 24
+[22-Dec-2018 14:51:56 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 14:51:56 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 24
+[22-Dec-2018 14:52:12 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 14:52:12 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 24
+[22-Dec-2018 15:07:23 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:07:23 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 24
+[22-Dec-2018 15:09:27 UTC] PHP Warning:  mysqli::query(): Empty query in /home/shehabhegab/public_html/Hotel_resv/getHotelInfo.php on line 11
+[22-Dec-2018 15:09:27 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/getHotelInfo.php on line 13
+[22-Dec-2018 15:20:54 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 24
+[22-Dec-2018 15:22:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 24
+[22-Dec-2018 15:22:51 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 29
+[22-Dec-2018 15:23:16 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 35
+[22-Dec-2018 15:24:21 UTC] PHP Parse error:  syntax error, unexpected '"', expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 36
+[22-Dec-2018 15:25:06 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:25:06 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:25:06 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:25:06 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:25:06 UTC] PHP Notice:  Undefined variable: sql in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 29
+[22-Dec-2018 15:25:06 UTC] PHP Warning:  mysqli::query(): Empty query in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 29
+[22-Dec-2018 15:25:06 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 32
+[22-Dec-2018 15:26:40 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:26:40 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:26:40 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:26:40 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:27:38 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:27:38 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:27:38 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:27:38 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:29:13 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:29:13 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:29:13 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:29:13 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 25
+[22-Dec-2018 15:34:59 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:34:59 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:38:37 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:38:37 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:38:57 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:38:57 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:40:16 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:40:16 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:40:28 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:40:28 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:45:45 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 15:45:45 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 19:00:02 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 19:00:03 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 19:00:29 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 19:00:29 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 19:01:59 UTC] PHP Notice:  Undefined variable: City in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 19:01:59 UTC] PHP Notice:  Undefined variable: Street in /home/shehabhegab/public_html/Hotel_resv/addHotel.php on line 23
+[22-Dec-2018 21:22:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/shehabhegab/public_html/Hotel_resv/addFacilty.php on line 23
+[22-Dec-2018 21:55:16 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getResv.php on line 5
+[22-Dec-2018 21:58:04 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getResv.php on line 5
+[23-Dec-2018 08:33:04 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/addRoom.php on line 22
+[23-Dec-2018 08:33:05 UTC] PHP Notice:  Undefined index: hid in /home/shehabhegab/public_html/Hotel_resv/getRooms.php on line 3
+[23-Dec-2018 08:34:24 UTC] PHP Notice:  Undefined index: hid in /home/shehabhegab/public_html/Hotel_resv/getRooms.php on line 3
+[23-Dec-2018 08:37:49 UTC] PHP Notice:  Undefined index: hid in /home/shehabhegab/public_html/Hotel_resv/getRooms.php on line 3
+[23-Dec-2018 10:44:28 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:44:28 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:44:28 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:44:41 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:44:41 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:44:41 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:45:07 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:46:52 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:47:15 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:48:19 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:48:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:48:49 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:48:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:08 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:08 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:08 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:47 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:47 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:47 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:48 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:48 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:48 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:49:49 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:49:49 UTC] PHP Fatal error:  Class 'My_Db_Exception' not found in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 11
+[23-Dec-2018 10:49:56 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginOwner.php on line 4
+[23-Dec-2018 10:49:56 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginOwner.php on line 5
+[23-Dec-2018 10:50:33 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:50:33 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:51:13 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:51:13 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:51:14 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:51:14 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:51:27 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:51:27 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:51:29 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:51:29 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:51:29 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:51:29 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:51:29 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:51:29 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:52:01 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:52:01 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:52:45 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:52:45 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 10:53:29 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 10:53:29 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 11:00:54 UTC] PHP Notice:  Undefined index: EMAIL in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 4
+[23-Dec-2018 11:00:54 UTC] PHP Notice:  Undefined index: PASS in /home/shehabhegab/public_html/Hotel_resv/loginAdmin.php on line 5
+[23-Dec-2018 11:04:26 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/cusType.php on line 13
+[23-Dec-2018 11:04:26 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 27
+[23-Dec-2018 11:23:26 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/cusType.php on line 13
+[23-Dec-2018 11:23:26 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 27
+[23-Dec-2018 12:11:17 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 27
+[23-Dec-2018 12:11:17 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/cusType.php on line 13
+[23-Dec-2018 13:18:10 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/cusType.php on line 13
+[23-Dec-2018 13:18:10 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 27
+[23-Dec-2018 13:35:19 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[23-Dec-2018 13:36:06 UTC] PHP Notice:  Undefined index: HOTELID in /home/shehabhegab/public_html/Hotel_resv/getFac.php on line 5
+[23-Dec-2018 15:49:51 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/cusType.php on line 13
+[23-Dec-2018 15:49:51 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 27
+[23-Dec-2018 22:34:42 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 27
+[23-Dec-2018 22:34:42 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/cusType.php on line 13
+[24-Dec-2018 02:39:13 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/cusType.php on line 13
+[24-Dec-2018 02:39:13 UTC] PHP Notice:  Trying to get property of non-object in /home/shehabhegab/public_html/Hotel_resv/BlackList.php on line 27
